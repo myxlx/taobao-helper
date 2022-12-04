@@ -1,0 +1,15 @@
+{
+  "name": "taobao-helper",
+  "version": "1.0.0",
+  "devDependencies": {
+    "axios": "^1.2.0",
+    "node-html-parser": "^6.1.4"
+  },
+  "dependencies": {
+    "htmlparser2": "^8.0.1",
+    "iconv-lite": "^0.6.3",
+    "jsdom": "^20.0.3",
+    "parse-jsonp": "^2.0.0",
+    "xmldom": "^0.6.0"
+  }
+}
